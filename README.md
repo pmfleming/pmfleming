@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmfleming
 - 👀 I’m interested in applying machine learning to business processes
-- 🌱 I’m currently learning python, netsuite, ...
+- 🌱 I’m currently learning rust ...
 - 💞️ I’m looking to collaborate on nothing much, until i start writing better code
 - 📫 How to reach me, ... i'll call you .. :P
 
