@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmfleming
-- 👀 I’m interested in applying machine learning to business processes
-- 🌱 I’m currently learning rust ...
+- 👀 I’m building things - scratchpad is decent, everything else is for fun.
+- 🌱 I’m currently learning rust ... and maybe odin
 - 💞️ I’m looking to collaborate on nothing much, until i start writing better code
 - 📫 How to reach me, ... i'll call you .. :P
 
